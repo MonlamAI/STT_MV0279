@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <transcriptionFont />
-  <freeTranslationFont />
+  <freeTranslationFont>Segoe UI Black, 27.75, Bold</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0279</Title>
   <FundingProjectTitle />
